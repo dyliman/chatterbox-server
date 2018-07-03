@@ -1,0 +1,10 @@
+var data = [{
+      'objectId': '1',
+      'username':'Me',
+      'text':'Hello',
+      'roomname':'lobby', 
+      'createdAt':'2018-06-27T23:29:32.572Z',
+      'updatedAt':'2018-06-27T23:29:32.572Z'
+}];
+
+modules.exports.data = data;
